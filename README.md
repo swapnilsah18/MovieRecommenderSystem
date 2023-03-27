@@ -1,7 +1,6 @@
 # Movie-Recommender-Systems
 Predicting movies using content based filtering and deploying the model using streamlit.
-
-## STEPS INVOLVED
+In this recommender system we are recommending movies based on the cast, crew, overview/summary of the movie.
 
 ### Data gathering and pre-processing
 * In this TMDB 5000 movies dataset is used which is available in kaggle.
